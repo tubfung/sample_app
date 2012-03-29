@@ -1,0 +1,22 @@
+Started 3/29/2012 by RMF
+
+Following the Ruby on Rails3 Tutorial
+In Chaper 3:
+
+rails new sample_app from RailsProject directory
+cd sample_app
+bundle install
+edit Gemfile to include rspec
+bundle install
+rails generate rspec:install
+
+Initialize Git Repository
+$ git init
+$ git add
+$ git commit -m "Initial commit"
+
+Can't push git repository up to github.
+Ask Luciano.
+Maybe use a different login on macbook for nuvana/jubali?
+
+
